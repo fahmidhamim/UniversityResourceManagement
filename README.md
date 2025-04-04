@@ -1,1 +1,1 @@
-# UniversityResourceManagement
+# University-Resource-Management-System
